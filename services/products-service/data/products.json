@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "پارچه کتان مرغوب",
+      "price": 100000,
+      "category": "کتان",
+      "fabricType": "کتان",
+      "width": "140cm",
+      "minOrder": 10,
+      "description": "پارچه کتان با قابلیت تنفس بالا برای لباس‌های تابستانی",
+      "colors": [
+        "آبی",
+        "سفید",
+        "کرم"
+      ],
+      "inStock": true,
+      "createdAt": "2024-01-02T10:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "حریر گل دار",
+      "price": 260000,
+      "category": "پرده",
+      "minOrder": 10,
+      "createdAt": "2025-11-17T07:51:39.967Z",
+      "fabricType": "حریر",
+      "width": "150cm",
+      "description": "با بهترین کیفیت ساخت ترکیه",
+      "colors": [
+        "مشکی"
+      ],
+      "inStock": true
+    }
+  ]
+}
